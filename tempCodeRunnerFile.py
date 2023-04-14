@@ -1,0 +1,1 @@
+fecha = input("Introduce tu fecha de nacimiento con este formato dd/mm/aa:  ")
